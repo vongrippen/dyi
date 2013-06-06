@@ -1,7 +1,6 @@
-require 'dyi'
 Gem::Specification.new{|s|
   s.name = 'dyi'
-  s.version = DYI::VERSION
+  s.version = '1.3.0'
   s.date = Gem::Specification::TODAY
   s.license = 'GPL-3'
   s.summary = '2D graphics library'
